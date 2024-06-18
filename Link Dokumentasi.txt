@@ -1,0 +1,10 @@
+[ Link Dokumentasi API ]
+https://documenter.getpostman.com/view/27063468/2sA3QtcqiX
+
+Lainnya:
+
+[ Progress ]
+https://docs.google.com/spreadsheets/d/19esWW95dkymaB5mLmuAJO73A_ge-mqaetmOS6P2Qgl0/edit#gid=0
+
+[ Base URL ]
+https://dev-capstone.practiceproject.tech/
